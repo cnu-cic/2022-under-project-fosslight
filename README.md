@@ -1,8 +1,8 @@
 # 2022-under-project-fosslight
 
-# LG 전자 오픈소스SW 관리도구 Fosslight 개발팀 모집 
+# LG 전자 오픈소스SW 관리도구 FOSSLight 개발팀 모집 
 
-- LG전자 공개SW관리도구 Fosslight 소개
+- LG전자 공개SW관리도구 FOSSLight 소개
   * 기관에서 1. SW 사용 현황, 2. 오픈소스 SW개발 프로젝트 관리를 위한 SW
   * https://live.lge.co.kr/lg-fosslight/
   * https://www.oss.kr/contribution_academy_project/show/36ef9e5a-b35f-4d8a-91c1-3c4f6af922bd
@@ -21,8 +21,7 @@
   * 비정기적 팀-LG전자 FOSSLight 개발 팀과 멘토링
 
 - 활동 헤택
-  *  LG전자 FOSSLight팀의 멘토와 함께 컨트리뷰톤 참가 기회(별도 지원 후 선발될 경우): 이전 사례 https://www.oss.kr/contribution_academy_project
-  * SW중심대학 마일리지
+  * LG전자 FOSSLight팀의 멘토와 함께 컨트리뷰톤 참가 기회(별도 지원 후 선발될 경우): 이전 사례 https://www.oss.kr/contribution_academy_project
 
 - 모집인원
   * 팀별 모집: 1-2팀 내외, 팀당 2-3명 정도
