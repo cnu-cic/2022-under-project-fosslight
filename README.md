@@ -58,9 +58,9 @@
   - 2022.01 - 2022.02 퍼듀대학교 Winter Softwware Program 수료 예정
 
 - 프로젝트
-  - 2020.11 - 2020.12 [STYLED-MAP-ADMIN-TOOL](https://github.com/boostcamp-2020/Project08-A-Styled-Map-Admin-Tool)
-  - 2021.10 - 2021.12 [TechStack Generator](https://github.com/qkrdmstlr3/techstack-generator)
-  - 2021.01 - 2021.10 [Devlog](https://github.com/qkrdmstlr3/devlog)
+  - 2020.11 - 2020.12 STYLED-MAP-ADMIN-TOOL
+  - 2021.10 - 2021.12 TechStack Generator
+  - 2021.01 - 2021.10 Devlog
 
 ### 팀원2
 
@@ -81,8 +81,8 @@ Spring framework를 사용할 줄 알고, 또 이를 오픈소스에 적용할 �
   - 2021.03 - 2021.03 2021 AnA 디자인 스프린트 캠프 운영 및 진행
 
 - 프로젝트
-  - 2021.06 - 2021.08 [지란지교소프트 개발팀 인턴](https://github.com/MoonDD99/JiranSoft_Internship/tree/master)
-  - 2021.10 - 2021.12 [역색인 검색엔진 사이트](https://github.com/MoonDD99/InSearch-web)
+  - 2021.06 - 2021.08 지란지교소프트 개발팀 인턴
+  - 2021.10 - 2021.12 역색인 검색엔진 사이트
 
 ### 팀원3
 
@@ -101,6 +101,6 @@ Spring framework를 사용할 줄 알고, 또 이를 오픈소스에 적용할 �
   - 2022.01 - 2022.02 퍼듀대학교 Winter Softwware Program 수료 예정
 
 - 프로젝트
-  - 2021.06 - 2022.02 [RemotePrescriptionApp](https://github.com/Sinyoung3016/RemotePrescriptionApp) 
-  - 2021.10 - 2021.12 [InSearch](https://github.com/CNUCSE-Team2/InSearch)
-  - 2021.11 - 2022.01 [BreakPurdue](https://github.com/Sinyoung3016/BreakPurdue)
+  - 2021.06 - 2022.02 RemotePrescriptionApp
+  - 2021.10 - 2021.12 InSearch
+  - 2021.11 - 2022.01 BreakPurdue
